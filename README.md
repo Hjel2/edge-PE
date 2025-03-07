@@ -1,6 +1,6 @@
 # How do positional encodings generalise to edges?
 
-Official codebase for the paper _How do positional encodings generalise to edges?_
+Official codebase for the miniproject [_How do positional encodings generalise to edges?_](https://hjel.me/assets/pdf/grl.pdf)
 
 Positional encodings have recently become ubiquitous in the graph learning ecosystem: initially invented for transformers, they have found use even in message-passing neural networks. However, all current positional encodings augment node features to some extent. This project rethinks that.
 
